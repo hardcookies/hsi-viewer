@@ -8,6 +8,7 @@
 
 ## 界面布局
 软件主窗口包括工具栏、用于显示打开影像及其波段的QTreeWidget、选择显示模式的两个QRadioButton、一个显示已选波段的QListWidget和两个加载/关闭显示窗口的QPushButton。
+
 界面及显示效果如下图所示：
 ![界面显示](http://imgs3.oss-cn-hongkong.aliyuncs.com/pigment/hsi-viewer.png)
 
