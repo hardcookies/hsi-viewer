@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icon/cog.ico</file>
+        <file>icon/image.ico</file>
+        <file>icon/images.ico</file>
+        <file>icon/layers.ico</file>
+        <file>icon/square.ico</file>
+        <file>icon/blue.png</file>
+        <file>icon/green.png</file>
+        <file>icon/red.png</file>
+        <file>icon/gray.png</file>
+        <file>icon/close_all.png</file>
+        <file>icon/delete.png</file>
+    </qresource>
+</RCC>
